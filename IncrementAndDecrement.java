@@ -34,6 +34,7 @@ public class IncrementAndDecrement {
 
         int e = 3;  // Initialization
         int f = --e; // In this first the decrement process will occur and then f value will be assign after decrement.
+
         System.out.println("The value of e is: " + e); // o/p => 2
         System.out.println("The value of f is:" + f); // o/p => 2
     }
