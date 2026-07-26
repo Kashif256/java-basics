@@ -1,5 +1,5 @@
 public class Car {
-    // Class and object concepy
+    // Class and object concept
     int mod;
     int wheel;
     public static void main(String[] args) {
@@ -38,8 +38,10 @@ public class Car {
 
         a.mod =110;
         System.out.println(a.mod);
+        System.out.println("This is an a's reference:" + b.mod); // In this why it is not giving the value as 110 my doubt is a's reference is b right then it wanna give the value as 110 right ? Answer: It doesn't change because the b's refernce is 2017.
         c.mod= 115;
         System.out.println(a.mod);
+        System.out.println("For reference: " + c.mod);
         b.mod = 15;
         System.out.println(c.mod);
     }
