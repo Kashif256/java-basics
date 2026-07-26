@@ -29,6 +29,19 @@ public class Car {
         System.out.println(b.wheel);
         System.out.println(c.mod);
         System.out.println(c.wheel);
+
+        System.out.println("After shifting the reference");
+
+        a=b;
+        b=c;
+        c=a;
+
+        a.mod =110;
+        System.out.println(a.mod);
+        c.mod= 115;
+        System.out.println(a.mod);
+        b.mod = 15;
+        System.out.println(c.mod);
     }
     
 }
