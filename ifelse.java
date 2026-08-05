@@ -24,7 +24,7 @@ public class ifelse {
         int s1= 50;
         int s2= 60;
         if(s1 == s2){
-               System.out.println("The value of s1 is equal to s2");
+            System.out.println("The value of s1 is equal to s2");
         }
         else if ( s1 != s2){
             System.out.println("The value of s1 is not equal to s2");
