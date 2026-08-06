@@ -1,3 +1,5 @@
+package OOPConcept;
+
 public class LocalAndGloabal {
     // Global variable - class variable it is palced immediately after the class
     String name = "Kashif";

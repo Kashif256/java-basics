@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class TwoDimensional {
     // Two dimensional array 
     // A two-dimensional (2D) array is an array of arrays. It stores data in rows and columns, just like a table or an Excel spreadsheet.

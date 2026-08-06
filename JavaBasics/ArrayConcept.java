@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class ArrayConcept {
     // An array in Java is a data structure that stores multiple values of the same data type in a single variable. Each value is stored at a specific position called an index, starting from 0.
     
@@ -70,3 +72,4 @@ public class ArrayConcept {
         System.out.println(ob[4]);
     }
 }
+

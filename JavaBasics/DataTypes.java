@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class DataTypes {
 
     /* Why we are using System.out.println() instead of System.out.print() because println() adds a newline character at the end instead we use only print then the output will be in the same line one after another */

@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class StringConcatenation {
 
     // + operator is used to concatenate two strings or a string with any other data type.
@@ -25,3 +27,4 @@ public class StringConcatenation {
     }
 
 }
+

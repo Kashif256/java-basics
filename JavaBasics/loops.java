@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class loops{
     public static void main(String[] args){
 
@@ -31,4 +33,5 @@ public class loops{
     }
   
 }
+
 
