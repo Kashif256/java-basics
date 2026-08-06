@@ -40,6 +40,11 @@ public class wrapper {
         String l =String.valueOf(q);
         System.out.println(l+20); // 20020
 
+        // interview question
+
+       /* String s = "100A" ; // this is not a pure integer
+        Integer.parseInt(s); // The error u got is "NumberFormatException"   */
+
 
     }
 }
